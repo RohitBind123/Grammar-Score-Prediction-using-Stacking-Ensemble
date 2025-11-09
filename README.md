@@ -663,29 +663,12 @@ param_grid = {
 Mean Baseline < Ridge < XGBoost ≈ LightGBM < Simple Ensemble < Stacking
 ```
 
----
-
-## 📝 Citation
-
-If you use this code, please cite:
-
-```bibtex
-@misc{grammar_score_prediction,
-  author = {Rohit Bind},
-  title = {Grammar Score Prediction using Stacking Ensemble},
-  year = {2024},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/...}}
-}
-```
-
----
 
 ## 📧 Contact
 
 For questions or issues, please contact:
 - **Author**: Rohit Bind
-- **Email**: [your-email]
+- **Email**: rohitbind013@gmail.com
 - **Project**: SHL Assignment
 
 ---
