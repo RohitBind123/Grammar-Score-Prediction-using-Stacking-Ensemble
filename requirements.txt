@@ -1,0 +1,13 @@
+transformers
+torch
+torchaudio
+openai-whisper
+language-tool-python
+spacy
+sentence-transformers
+lightgbm
+pandas
+numpy
+datasets
+xgboost==1.7.6
+scikit-learn==1.3.2
