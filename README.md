@@ -437,6 +437,7 @@ R² = 1 - SS_res/SS_tot
 | Mean Baseline | Highest | Highest | 0.0 | - |
 
 ---
+## 🚀 achieving RMSE =0.53
 
 ## 🚀 Inference Pipeline
 
